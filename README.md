@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @advaitnaresh
 - 👀 I’m interested in machine learning , artificial intelligence , competitive coding .
 - 🌱 I’m currently learning competitive coding in c++ 
-- 💞️ I’m looking to collaborate on vairous projects !!!
+- 💞️ I’m looking to collaborate on various projects !!!
 - 📫 How to reach me email - advaitnaresh@gmail.com
 
 <!---
